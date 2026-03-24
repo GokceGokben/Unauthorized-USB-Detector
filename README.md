@@ -61,8 +61,7 @@ To use Gmail for sending emails from this script, you need to generate a 16-char
 4. Copy the serial number and paste it as the value of `SECURE_SERIAL` in `usb_guard.py`.
 
 ## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
+This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
 
 ---
 **Security Note:**
