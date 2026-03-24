@@ -1,6 +1,6 @@
 # Unauthorized USB Detector
 
-This project monitors USB device insertions on your Linux system and takes a photo with your webcam, sending an email alert if an unauthorized USB device is detected.
+This project monitors USB device insertions on your **Linux** system and takes a photo with your webcam, sending an email alert if an unauthorized USB device is detected.
 
 ## Features
 - Detects all USB insertions (including at startup)
