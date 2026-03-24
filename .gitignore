@@ -1,0 +1,4 @@
+__pycache__/
+activity.log
+udev_launcher.log
+*.pyc
